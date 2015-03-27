@@ -5,19 +5,19 @@ A fun game
 
 1.
 2.
-3.
+3.Burgandy
 4.
 
 ## Maria
 
 1.
 2.
-3.
+3. Gold
 4.
 
 ## Leah
 
 1.
-2.
+2. Orange
 3.
 4.
